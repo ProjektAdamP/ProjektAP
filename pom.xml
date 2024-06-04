@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.adampiatkowski</groupId>
     <artifactId>Aplikacja</artifactId>
-    <version>version-1</version>
+    <version>AP</version>
     <name>Aplikacja</name>
     <description>Aplikacja</description>
     <properties>
